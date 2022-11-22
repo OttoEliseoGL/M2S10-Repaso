@@ -9,6 +9,14 @@ body {
   background-color: #fff;
 }
 
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: lightgray;
+}
+
 .site-header a {
   color: #999;
   transition: ease-in-out color .15s;
